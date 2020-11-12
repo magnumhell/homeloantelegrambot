@@ -1,4 +1,4 @@
-# homeloantelegrambot
+# Singapore Home Loan Calculator Bot on Telegram
 This home loan bot is made for Singaporean home buyers! View and compare loans for your private home, calculate Effective Interest Rates (EIR) and total repayment and see SIBOR rates. Home Loan details are taken from Singsaver while SIBOR rates are taken from The Association of Banks in Singapore (ABS).
 
 Effective Interest Rate is useful for home buyers to compare loans with different payment terms and tenure. By calculating EIR and determining the lowest, home buyers can identify the best loan for themselves.
